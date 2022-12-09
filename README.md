@@ -1,5 +1,12 @@
 # VAUL Wiki
 Base de connaissances du Véhicule Autonome de l'Université Laval. [Cliquez ici](https://github.com/vaul-ulaval/vaul-wiki/wiki) pour y accéder.
+<br/>
+<br/>
+
+<img style="float: right;" src="https://github.com/vaul-ulaval/vaul-wiki/blob/main/Images/Footer/VAUL_Logo_Cropped.png" width=300px />
+
+<br/>
+<br/>
 
 
 ## Présentation
@@ -11,6 +18,8 @@ Notre mandat est de concevoir et fabriquer un système autonome à destination d
 Le VAUL compte une 30ène d'étudiants en génie électrique, informatique et logiciel. Il est lié au Département Informatique et Génie Logiciel de l'Université Laval et est supervisé par le professeur de robotique mobile Philippe Giguère.<br/><br/>
 
 <br/>
+<br/>
+
 
 ## Repertoires
 
