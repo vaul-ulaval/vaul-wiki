@@ -3,8 +3,10 @@ Base de connaissances du Véhicule Autonome de l'Université Laval. [Cliquez ici
 <br/>
 <br/>
 
-<img style="float: right;" src="https://github.com/vaul-ulaval/vaul-wiki/blob/main/Images/Footer/VAUL_Logo_Cropped.png" width=300px />
-
+<p align="center">
+  <img src="https://github.com/vaul-ulaval/vaul-wiki/blob/main/Images/Footer/VAUL_Logo_Cropped.png" />
+  Figure: Presentation de l'équipe 2020-2021
+</p><br/>
 <br/>
 <br/>
 
