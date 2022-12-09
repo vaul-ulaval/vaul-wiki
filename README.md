@@ -20,4 +20,12 @@ Le VAUL compte une 30ène d'étudiants en génie électrique, informatique et lo
 README.md<br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
+
+[Accueil](Home) | [Site Web](https://vehiculeautonome-ul.com/) 
+
+<img style="float: right;" src="https://github.com/vaul-ulaval/vaul-wiki/blob/main/Images/Footer/VAUL_Logo_Cropped.png" width=300px />
+<br/>
+<br/>
