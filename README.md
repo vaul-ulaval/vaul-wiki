@@ -34,7 +34,7 @@ README.md<br/>
 <br/>
 
 
-[Accueil](Home) | [Site Web](https://vehiculeautonome-ul.com/) 
+[Accueil](Home) | [Site Web](https://vaul.fsg.ulaval.ca/) 
 
 <img style="float: right;" src="https://github.com/vaul-ulaval/vaul-wiki/blob/main/Images/Footer/VAUL_Logo_Cropped.png" width=300px />
 <br/>
